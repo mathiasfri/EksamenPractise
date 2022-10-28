@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8039ab3-41f2-44e2-8262-3171f8efa5e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse1/Tekst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse13/JuleGave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse16/ExamQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse17/Candidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse17/Election.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse2/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse2/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse3/Raflebæger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse4/Butik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse4/Cykel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse5/Tal.java" afterDir="false" />
+    <list default="true" id="d8039ab3-41f2-44e2-8262-3171f8efa5e2" name="Changes" comment="Blanding af færdige øvelser">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Øvelse6/Tal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666878236051</updated>
-      <workItem from="1666878237535" duration="1491000" />
+      <workItem from="1666878237535" duration="4806000" />
     </task>
+    <task id="LOCAL-00001" summary="Blanding af færdige øvelser">
+      <created>1666942211839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666942211839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Blanding af færdige øvelser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blanding af færdige øvelser" />
   </component>
 </project>
